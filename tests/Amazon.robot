@@ -8,3 +8,5 @@ This is a change from remote.
 Feature 1 Test
 
 Modify master from local
+
+Modify master from remote
